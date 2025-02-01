@@ -1,0 +1,46 @@
+.order-placing{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 80px;
+}
+
+.order-placing-left{
+    width: 50%;
+    max-width: max(30%,500px);
+}
+
+.order-placing-left .title{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.order-placing-left input{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #c5c5c5;
+    border-radius: 4px;
+    outline-color: purple;
+}
+
+.order-placing-left .info-inputs{
+    display: flex;
+    gap: 15px;
+}
+
+.order-placing-right{
+    width: 40%;
+    max-width: max(40%,500px);
+}
+
+.order-placing-right button{
+    margin-top: 30px;
+}
+
+.order-placing-right h2{
+    font-size: 30px;
+    font-weight: 600;
+}

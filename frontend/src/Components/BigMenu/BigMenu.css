@@ -1,0 +1,16 @@
+.big-menu{
+    margin-top: 30px;
+}
+
+.big-menu h2{
+    font-size: max(2vw,24px);
+    font-weight: 600;
+}
+
+.big-menu-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(240px,1fr)); 
+    margin-top: 30px;
+    gap: 16px;
+    row-gap: 50px;
+}
