@@ -1,7 +1,7 @@
 # 🍔 MunchLox - A MERN Stack Food Delivery App  
 
 ## 📌 Overview  
-MunchLox is a **food delivery web application** built using the **MERN stack (MongoDB, Express, React, Node.js)**. This project is my **first full-stack MERN project**, created as a **project-based learning experience**. I built it by following an online tutorial but **implemented my own understanding, logic, and modifications** to underst the full-stack development process.   
+MunchLox is a **food delivery web application** built using the **MERN stack (MongoDB, Express, React, Node.js)**. This project is my **first full-stack MERN project**, created as a **project-based learning experience**. I built it by following an online tutorial but **implemented my own understanding, logic, and modifications** to understand the full-stack development process.   
 
 ## 🚀 Tech Stack  
 - **Frontend:** React (CRA), Context API, CSS  
